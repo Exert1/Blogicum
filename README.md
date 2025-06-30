@@ -14,7 +14,7 @@ cd django_sprint4
 Cоздать и активировать виртуальное окружение:
 
 ```
-python -m venv venv
+python -3.9 -m venv venv
 ```
 
 ```
