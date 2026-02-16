@@ -1,6 +1,6 @@
 # Блогикум
 
-Один из учебных проектов, текуюбщий пет-проект - ingridients_collector https://github.com/Exert1/ingridients_collector
+Один из учебных проектов, текущий пет-проект - ingridients_collector https://github.com/Exert1/ingridients_collector
 
 ### Как запустить проект:
 
